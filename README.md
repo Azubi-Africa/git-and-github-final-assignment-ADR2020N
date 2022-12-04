@@ -19,10 +19,10 @@ The below table must contain the details of the repositories you will create, fi
 
 
 |  | Project's Name | Description    | GitHub's Link  |
-|:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+|:--:|:--------------:|:--------------:         |:--------------:|
+| 1 |  -fisrtProject |-week9individual project             | https://  D:\gitDemo_assigments\git-and-github-final-assignment-ADR2020N\firstProject\Peer_Week_9_Alidu.py     |
+| 2 |  -secondProject|-week12peer_project          |  -             | https:// D:\gitDemo_assigments\git-and-github-final-assignment-ADR2020N\secondProject\WEEK 12 INDIVIDUAL .py      |
+| 3 |  -thirdProject |- numpy,Pandas&SQL            | https:// D:\gitDemo_assigments\git-and-github-final-assignment-ADR2020N\thirdProject\README.txt      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
